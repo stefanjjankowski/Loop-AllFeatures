@@ -118,6 +118,7 @@ NEW_FILES=(
     "Loop/Services/LoopInsights/LoopInsights_CaregiverDigestService.swift"
     "Loop/Services/LoopInsights/LoopInsights_DataAggregator.swift"
     "Loop/Services/LoopInsights/LoopInsights_FoodResponseAnalyzer.swift"
+    "Loop/Services/LoopInsights/LoopInsights_GlucoseUnitContext.swift"
     "Loop/Services/LoopInsights/LoopInsights_GoalStore.swift"
     "Loop/Services/LoopInsights/LoopInsights_HealthKitManager.swift"
     "Loop/Services/LoopInsights/LoopInsights_NightscoutImporter.swift"

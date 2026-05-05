@@ -121,6 +121,7 @@ SOURCE_FILES = [
     ("Services/LoopInsights/LoopInsights_CaregiverDigestService.swift", "LoopInsights_CaregiverDigestService.swift", "Services/LoopInsights"),
     ("Services/LoopInsights/LoopInsights_DataAggregator.swift",     "LoopInsights_DataAggregator.swift",     "Services/LoopInsights"),
     ("Services/LoopInsights/LoopInsights_FoodResponseAnalyzer.swift", "LoopInsights_FoodResponseAnalyzer.swift", "Services/LoopInsights"),
+    ("Services/LoopInsights/LoopInsights_GlucoseUnitContext.swift", "LoopInsights_GlucoseUnitContext.swift", "Services/LoopInsights"),
     ("Services/LoopInsights/LoopInsights_GoalStore.swift",          "LoopInsights_GoalStore.swift",          "Services/LoopInsights"),
     ("Services/LoopInsights/LoopInsights_HealthKitManager.swift",   "LoopInsights_HealthKitManager.swift",   "Services/LoopInsights"),
     ("Services/LoopInsights/LoopInsights_NightscoutImporter.swift", "LoopInsights_NightscoutImporter.swift", "Services/LoopInsights"),
